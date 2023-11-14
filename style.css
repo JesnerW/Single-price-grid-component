@@ -53,9 +53,10 @@ main {
       font-size: 18px;
       font-weight: 700;
       color: var(--Bright-Yellow);
-      margin-bottom: 14px;
+      margin-bottom: 11px;
     }
     & p {
+      line-height: 1.75;
       font-size: 16px;
       color: var(--Grayish-Blue);
       margin-bottom: 7px;
